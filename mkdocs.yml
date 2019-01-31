@@ -2,4 +2,4 @@ site_name: Domainer.xyz
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme: docskimmer #readthedocs
