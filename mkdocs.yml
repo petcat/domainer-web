@@ -1,12 +1,15 @@
 site_name: Domainer.xyz
+site_url: https://domainer.xyz
+site_description: MkDocs Bootstrap Theme
+site_author: Tom Christie & Dougal Matthews
+repo_url: https://github.com/mkdocs/mkdocs-bootstrap
+copyright: Copyright &copy; 2019 <a href="https://domainer.xyz">Domainer</a>, Hosted by <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+#
 nav:
     - Home: index.md
     - About: about.md
 #theme: readthedocs
-
 theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
+    name: bootstrap
+plugins:
+    - search
