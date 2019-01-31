@@ -2,16 +2,4 @@ site_name: Domainer.xyz
 nav:
     - Home: index.md
     - About: about.md
-#theme: readthedocs
-theme:
-  name: null
-  custom_dir: 'mkdocs_docskimmer'
-  include_search_page: true
-  search_index_only: false
-  static_templates:
-  - 404.html
-
-plugins: ['search']
-
-extra:
-    version: 0.3.x
+theme: Bootstrap #readthedocs
