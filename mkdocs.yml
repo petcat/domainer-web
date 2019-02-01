@@ -3,7 +3,7 @@ site_url: https://domainer.xyz
 site_description: 域名相关知识
 site_author: Matt
 repo_url: 
-copyright: Copyright &copy; 2019 <a href="https://domainer.xyz">Domainer</a> | Hosted by <a href="http://www.dougalmatthews.com/">Dougal Matthews</a>.
+copyright: Copyright &copy; 2019 <a href="https://domainer.xyz">Domainer</a> | Hosted by <a href="https://my.hostus.us/aff.php?aff=408" title="HostUS">HostUS Hosting</a>.
 #
 nav:
     - Home: index.md
