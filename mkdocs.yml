@@ -8,5 +8,5 @@ copyright: Copyright &copy; 2019 <a href="https://domainer.xyz">Domainer</a> | H
 nav:
     - Home: index.md
     - About: about.md
-theme: docskimmer #readthedocs
+theme: windmill #readthedocs
 
